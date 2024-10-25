@@ -16,3 +16,5 @@ https://www.youtube.com/@olddognewlinux
 https://github.com/OldDogNewLinux?tab=repositories
 
 https://buymeacoffee.com/olddognewlinux
+
+![FINAL-LMDE6-MacLMDE6](https://github.com/user-attachments/assets/9fa8004b-9805-4fa8-aa32-51552c1f2f42)
